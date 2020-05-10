@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EEA4FBA9-2704-49CA-A78F-8A7BD6A3B7D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Operations.cs">
+    <Files>
+      <File FileName="Operations.cs" Line="211" Column="17" />
+      <File FileName="Edge.cs" Line="17" Column="44" />
+      <File FileName="Node.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Query.cs" Line="17" Column="109" />
+      <File FileName="SortedSetNode.cs" Line="22" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MapProject" expanded="True" selected="True">
+            <Node name="MapProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MapProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
